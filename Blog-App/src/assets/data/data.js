@@ -1,0 +1,161 @@
+export const nav = [
+  {
+    id: 1,
+    text: "home",
+    url: "/",
+  },
+  {
+    id: 2,
+    text: "about",
+    url: "/about",
+  },
+  {
+    id: 3,
+    text: "pages",
+    url: "/pages",
+  },
+  {
+    id: 4,
+    text: "blog",
+    url: "/blog",
+  },
+  {
+    id: 5,
+    text: "contact",
+    url: "/contact",
+  },
+]
+export const category = [
+  {
+    id: 1,
+    category: "Life",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca1.png",
+  },
+  {
+    id: 2,
+    category: "Fashion",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca2.png",
+  },
+  {
+    id: 3,
+    category: "Travel",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca3.png",
+  },
+  {
+    id: 4,
+    category: "Sport",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca4.png",
+  },
+  {
+    id: 5,
+    category: "Fun",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca5.png",
+  },
+  {
+    id: 6,
+    category: "Health",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca6.png",
+  },
+  {
+    id: 7,
+    category: "Business",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca7.png",
+  },
+  {
+    id: 8,
+    category: "Technology",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca8.png",
+  },
+]
+export const blog = [
+  {
+    id: 1,
+    title: "POST NO.1 OPTIMIZING BLOG WITH YOUTUBE VIDEO",
+    desc: "Every blog post could do with a YouTube video. It’s a fact, supported by countless sources of research. If you include a video on a post or page, your conversion rate will increase by a shocking 80% on average. It will also lengthen how long the average visitor spends on your page, and raise your engagement rates overall. Google also gives particular prominence to content that includes a video",
+    category: "Nature",
+    cover: "../images/blogs/b1.jpg",
+    date: "APRIL 05, 2023",
+  },
+
+  {
+    id: 2,
+    title: "JUPITER IS FULL OF WATERFALLS SO EARLY",
+    desc: "Life on our planet can’t exist without water, so finding water on other planets raises the possibility that life exists elsewhere. However, in the case of Jupiter, the kind of life we have on Earth would never be able to survive because of the deadly chemicals in the planet’s atmosphere and ocean and its violent weather systems. However, that doesn’t rule out the existence of radically different life forms.",
+    category: "Nature",
+    cover: "../images/blogs/b2.jpg",
+    date: "MARCH 15, 2023",
+  },
+  {
+    id: 3,
+    title: "Yahoo! Sports",
+    desc: "Covers all the top sports as well as fantasy leagues. In addition to sports coverage, opinion pieces and predictions over football, hockey, and soccer and other sports can be found.",
+    category: "Sports",
+    cover: "../images/blogs/b3.jpg",
+    date: "MARCH 15, 2023",
+  },
+  {
+    id: 4,
+    title: "START YOU CUP ON TABLE OF THAT",
+    desc: "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition.",
+    category: "Fashion",
+    cover: "../images/blogs/b4.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 5,
+    title: "talk SPORT",
+    desc: "This sports radio station covers various sports, among them football and boxing. There’s even an option to listen live to sport commentators and active events. Podcasts and schedules available too..",
+    category: "Sports",
+    cover: "../images/blogs/b5.jpg",
+    date: "February 20, 2018",
+  },
+  {
+    id: 6,
+    title: "Girl With Curves",
+    desc: "The body type of models is far from reality. Slim people do exist in real life, but there are women with bigger sizes who can look just as good. People come in all shapes and sizes, but many of us have been conditioned to believe that only one body type is ideal for fashion..",
+    category: "Fashion",
+    cover: "../images/blogs/b6.jpg",
+    date: "February 20, 2018",
+  },
+  {
+    id: 7,
+    title: "Hello!! Fashion",
+    desc: "Christine created her own fashion brand called ILY Couture in 2011. In the same year, she started Hello Fashion, initially as an online diary where she shared her favorite fashion finds as well as helped customers wear and style their ILY Couture buys.",
+    category: "Fashion",
+    cover: "../images/blogs/b7.jpg",
+    date: "February 20, 2018",
+  },
+  {
+    id: 8,
+    title: "Nature is a teacher ",
+    desc: "A number of years ago I went on holiday to a beautiful part of Portugal. We stayed in a converted farmhouse in the middle of a national park. The farmhouse was in a valley. We arrived in the evening when the birds were just starting to roost. It was still warm and the air smelled sweet with pollen.",
+    category: "Nature",
+    cover: "../images/blogs/b8.jpg",
+    date: "February 20, 2018",
+  },
+  {
+    id: 9,
+    title: "TEACH YOUR DRAGON HOW TO FLY",
+    desc: "Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus. We don't want to overload you with hundreds of styles you don't want, or need. We give you a strong base to express your own creativity.",
+    category: "Fashion",
+    cover: "../images/blogs/b9.jpg",
+    date: "February 20, 2018",
+  },
+
+  {
+    id: 10,
+    title: "The Fashion Advocate",
+    desc: "With the rise of fast fashion brands, many environmentalists are getting concerned about the impact it has on our society and environment. True to its name, the Fashion Advocate by Australian blogger Claire Goldsworthy champions sustainable fashion trends. She brings the conversation around fashion to a higher level, prompting readers to consider the impact their fashion choices have around them.",
+    category: "Fashion",
+    cover: "../images/blogs/b10.jpg",
+    date: "February 20, 2018",
+  },
+]
